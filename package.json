@@ -5,11 +5,10 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
-    "mongojs": "^2.6.0",
     "socket.io": "^2.2.0"
   },
   "engines": {
-    "node": "4.1.x"
+    "node": "10.3.x"
   },
   "devDependencies": {},
   "scripts": {
